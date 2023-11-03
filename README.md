@@ -2,7 +2,6 @@
 Created a TO-DO-LISTS Using Html,Css and JavaScript
 
 1.Home Page
-
 ![h](https://github.com/maha-moni123/To-do-list/assets/135324405/0405e9c8-988f-465e-aa0e-46af5e3e1f4e)
 
 In Homepage we type the task we want to and click the ADD button.
@@ -23,4 +22,6 @@ In Homepage we type the task we want to and click the ADD button.
 
 5.Back to Home Page
 
+
+![h](https://github.com/maha-moni123/To-do-list/assets/135324405/11343943-92d1-488c-9978-91ae85da9bd4)
 
